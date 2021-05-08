@@ -1,4 +1,4 @@
-eventlet==0.25.0
+eventlet==0.31.0
 Flask==1.1.1
 greenlet==0.4.15
 hyper==0.7.0
